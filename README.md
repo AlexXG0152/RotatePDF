@@ -10,9 +10,9 @@ Thus, the root folder with app is always empty and does not take unnecessary fil
 Steps required for work:
 1. Install Python.
 2. Install PyPDF4. You can use cmd and   "pip install PyPDF4"   command or download from https://pypi.org/project/PyPDF4/
-3. Save Rotate.py file to your computer in a folder that will be used for work.
+3. Save rotate.py file to your computer in a folder that will be used for work.
 4. Place required PDF file in this folder.
-5. Run Rotate.py by double click or another way you preffer.
+5. Run rotate.py by double click or another way you preffer.
 6. Get the modified file in OUTPUT folder.
 
 I hope you enjoy by this app and your work will easier by use this.
