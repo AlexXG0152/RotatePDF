@@ -1,4 +1,4 @@
-# RotatePDF
+# Rotate_PDF
 Rotate PDF documents on 90 degrees
 
 The App rotates all sheets in input doc on 90 degrees and saves new PDF file in app folder. It will be useful for scanned documents (tables, etc.) for easy viewing on the screen.
